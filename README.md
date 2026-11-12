@@ -2,7 +2,7 @@
 
 Engineering student at Wrocław University of Science and Technology and IT administrator. I build automation tools, web backends and applied AI — and I use AI coding assistants daily: I design the solution, review and test the result.
 
-Co-founder & CTO at [Antillia Tech](https://antillia.tech), where we are building a Polish legal language model (in training).
+Co-founder & CTO at [Antillia Tech](https://antillia.tech). Most "Polish" language models are foreign models fine-tuned on Polish text — we pre-train our own from scratch: Polish data, our own tokenizer, our own weights. First domain: Polish law and tax (in training).
 
 ## Featured projects
 
